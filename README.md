@@ -1,63 +1,53 @@
-════════════════════════════════════════════════════
-      🐍✨ PYTHON EXPERIMENTS ✨🐍
-════════════════════════════════════════════════════
+# 🐍 Python Experiments
 
-📌 DESCRIPTION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# ➤ This repository contains Python programming
-#   experiments written while learning Python.
-# ➤ 🚧 The project is currently in progress.
-# ➤ More programs will be added step by step.
+## 📖 About
+This repository contains **Python programming experiments** written while learning and practicing Python.  
+It includes basic to intermediate level programs focused on strengthening logic and understanding core concepts.
 
-⚙️ STATUS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✔️ Work in Progress
-⏳ Repository is not completed yet.
+🚧 **Note:** This project is currently **under development** and is **not completed yet**.
 
-🧠 CONCEPTS PRACTICED
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 🔹 Variables and Data Types
-# 🔹 Input and Output Operations
-# 🔹 Conditional Statements (if / else / elif)
-# 🔹 Looping Statements (for / while)
-# 🔹 Mathematical Calculations
-# 🔹 String Manipulation
-# 🔹 Pattern Printing
-# 🔹 Basic Problem Solving
+---
 
-🧪 EXPERIMENTS INCLUDED (SO FAR)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-★ Sum of digits of a number
-★ Palindrome number check
-★ Armstrong number program
-★ Prime number check
-★ Fibonacci series
-★ Factorial of a number
-★ Multiplication table
-★ Pattern printing using numbers and '*'
-★ String lowercase to uppercase
-★ Numbers divisible by 5 or 7
+## 🚀 Project Status
+- 🛠️ Work in Progress  
+- 🔄 Regular updates planned  
+- ➕ More programs coming soon
 
-➕ More experiments coming soon... 🚀
+---
 
-▶️ HOW TO RUN
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-➊ Install Python
-➋ Open Terminal / Command Prompt
-➌ Go to project directory
-➍ Run the program using:
-    python filename.py
+## 🧠 Concepts Covered
+- Variables and data types  
+- Input and output operations  
+- Conditional statements  
+- Looping statements  
+- Mathematical operations  
+- String manipulation  
+- Pattern printing  
+- Basic problem-solving techniques  
 
-🎯 PURPOSE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✦ Practice Python Programming
-✦ Improve Logical Thinking
-✦ Useful for Labs & Learning
+---
 
-👤 AUTHOR
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-◆ Princy Agrawal
+## 🧪 Experiments Included (So Far)
+- Sum of digits of a number  
+- Palindrome number check  
+- Armstrong number program  
+- Prime number check  
+- Fibonacci series  
+- Factorial of a number  
+- Multiplication table  
+- Pattern printing using numbers and `*`  
+- String lowercase to uppercase conversion  
+- Numbers divisible by 5 or 7  
 
-════════════════════════════════════════════════════
-✨ Keep Learning • Keep Coding • Keep Growing ✨
-════════════════════════════════════════════════════
+➡️ *More experiments will be added soon.*
+
+---
+
+## ▶️ How to Run
+1. Make sure Python is installed on your system  
+2. Clone or download this repository  
+3. Open terminal / command prompt  
+4. Navigate to the project folder  
+5. Run any program using:
+   ```bash
+   python filename.py
