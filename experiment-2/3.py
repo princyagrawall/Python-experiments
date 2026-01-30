@@ -1,3 +1,5 @@
+"""Find the greatest among the two numbers. If numbers are equal than print
+“numbers are equal”."""
 num1 =int(input("enter num1 : "))
 num2 =int(input("enter num2 : "))
 

@@ -1,3 +1,4 @@
+"""Write a program to print truth table for bitwise operators (&, | and ^ operators)"""
 a=0
 b=1
 print(a,a,a&a,a|a,a^a)

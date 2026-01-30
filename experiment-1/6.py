@@ -1,3 +1,5 @@
+"""Write a program to compute the length of the hypotenuse (c) of a right triangle
+using Pythagoras theorem."""
 import math
 length=10
 breadth=20

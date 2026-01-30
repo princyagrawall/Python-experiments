@@ -1,3 +1,4 @@
+"""Check whether given number is palindrome or not."""
 num = int(input("Enter a number: "))
 original = num
 reverse = 0

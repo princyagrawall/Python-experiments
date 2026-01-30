@@ -1,3 +1,4 @@
+"""Find whether the given number is Armstrong number."""
 num = int(input("Enter a number: "))
 temp = num
 digits = len(str(num))

@@ -1,3 +1,4 @@
+"""Write a program to find if given number is prime number or not."""
 num = int(input("Enter a number: "))
 
 if num <= 1:

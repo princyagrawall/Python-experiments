@@ -1,3 +1,4 @@
+"""Write a program to swap two numbers without taking additional variable."""
 #method 1
 a=5
 b=10

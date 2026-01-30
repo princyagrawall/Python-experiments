@@ -1,3 +1,5 @@
+"""Check whether the quadratic equation has real roots or imaginary roots.
+Display the roots."""
 import math
 a = float(input("enter value of a:"))
 b = float(input("enter value of b:"))
