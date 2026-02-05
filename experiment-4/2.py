@@ -1,16 +1,11 @@
-#armstrong number
+#Count total number of vowels in a given string.
+ 
+string=input("Enter a string: ")
+count=0
+vowels = "aeiouAEIOU"
+for char in string:
+    if char in vowels :
+     print(char)
+     count += 1
 
-num= int(input("enter a number:"))
-temp = num
-sum = 0
-digits=len(str(num))
-
-while temp>0 :
-    digit = temp % 10
-    sum = sum + (digit**digits)
-    temp = temp//10
-
-if (sum == num ):
-    print("number is armstrong")
-else :
-     print("number is not armstorng")
+print("number of vowels in given string is ",count)
