@@ -8,3 +8,11 @@ Sample Output
 3B
 2C
 1G"""
+
+string=input("string : ")
+letter = string.lower()
+#print(letter)
+count = {}
+for char in letter:
+    if char.isalpha():
+        

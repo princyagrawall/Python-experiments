@@ -6,3 +6,4 @@ ABCDCDC
 CDC
 Sample Output
 2"""
+
