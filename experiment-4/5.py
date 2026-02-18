@@ -9,10 +9,16 @@ Sample Output
 2C
 1G"""
 
-string=input("string : ")
-letter = string.lower()
-#print(letter)
-count = {}
-for char in letter:
-    if char.isalpha():
-        
+s = input("Enter a string: ")
+s = s.upper()
+
+used = ""
+
+for i in s:
+    if i.isalpha() and i not in used:
+        count = 0
+        for j in s:
+            if i == j:
+                count += 1
+        print(str(count) + i)
+        used += i
